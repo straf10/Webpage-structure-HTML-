@@ -1,0 +1,106 @@
+/* BEGIN CODE HERE */
+
+
+
+
+
+#Header1{
+    width: 1200px;
+    height: 150px;
+    display: flex; 
+    justify-content: space-between; 
+    align-items: center; 
+
+}
+
+
+hr{
+    height: 3px; 
+    background-color: #000000;
+    width: 1200px;
+}
+
+#img1{
+    padding-left: 0;
+    width:250px;
+    height:58px;
+
+
+}
+
+nav{
+    display: flex; 
+    gap: 20px; 
+
+
+}
+
+
+
+footer{
+  text-align: center;
+  position: relative;
+  bottom: 0;
+  width: 1200px;
+  height: 100px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+
+}
+
+#head{
+    font-size: 34px;
+    font-weight: 600;
+}
+
+
+
+.box{
+
+    width: 600px;
+    height: 400px;
+}
+
+
+
+#img2{
+
+    width: 600px;
+    height: 400px;
+
+}
+
+table{ 
+
+    margin-left: 0;
+    width: 1200px;
+    height: 400px;
+    margin-bottom: 10px;
+}
+
+#table_cell{
+    height:400px; 
+    width:600px;
+    vertical-align: top;
+
+}
+
+table td{
+    width: 300px;
+    height: 200px;
+}
+#img3{
+    height: 200px;
+    width: 300px;
+}
+
+iframe{
+    width: 1200px;
+    height: 600px;
+
+}
+
+
+
+/* END CODE HERE */

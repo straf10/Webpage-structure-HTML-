@@ -1,0 +1,150 @@
+/*BEGIN CODE HERE*/
+
+.logo.png{
+    position: absolute;
+    top: 10px;
+    padding-left : 20px;
+    height : 58px;  
+    width : 250px;
+}
+
+
+
+.btn1{
+ 
+    position: absolute;
+    top: 10px;
+    right: 110px;
+    height: 30px;
+    width: 2cm;
+    background-color: #fff ;
+    text-align: center;
+    color: #1E90FF;
+    border-radius: 5px;
+    cursor: pointer;
+    text-decoration: none;
+    
+}
+
+.btn2{
+    position: absolute;
+    top: 10px;
+    right: 30px;
+    height: 30px;
+    width: 2cm;
+    background-color: #1E90FF ;
+    text-align: center;
+    color: #fff;
+    border-radius: 5px;
+    cursor: pointer;
+    text-decoration: none;
+    
+}
+
+
+#btn3{
+  position: absolute;
+  right: 10px;
+  top : 600px;
+  background-color: #1E90FF ;
+  text-align: center;
+  color: #fff;
+  border-radius: 5px;
+  cursor: pointer;
+  box-shadow: none;
+  outline: none;
+  border:none;
+  text-decoration: none;
+  
+
+}
+
+#inputName{
+    left: 36px;
+}
+
+#Price{
+    position: absolute;
+    left: 36px;
+}
+
+
+#id{
+    position: absolute;
+    left: 100px;
+    border: 1px solid rgb(231 , 231, 231);
+    border-radius: 5px;
+}
+
+#name{
+    position: absolute;
+    left: 100px;
+    border: 1px solid rgb(231 , 231, 231);
+    border-radius: 5px;
+}
+
+#production{
+    position: absolute;
+    left: 100px;
+    border: 1px solid rgb(231 , 231, 231);
+    border-radius: 5px;
+}
+
+#price{
+    position: absolute;
+    left: 100px;
+    border: 1px solid rgb(231 , 231, 231);
+    border-radius: 5px;
+}
+
+#color{
+    position: absolute;
+    left: 100px;
+    border: 1px solid rgb(231 , 231, 231);
+    border-radius: 5px;
+}
+
+#size{
+    position: absolute;
+    left: 100px;
+    border: 1px solid rgb(231 , 231, 231);
+    border-radius: 5px;
+} 
+
+#Table{
+    border: 1px solid rgb(231, 231, 231);
+    width:100%
+}
+
+
+#table_cell{
+    border: 1px solid rgb(231, 231, 231);
+}
+
+footer{
+    text-align: center;
+    position: relative;
+    bottom: 0;
+    width: 100%;
+    height: 100px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  
+  }
+
+#second_row{
+    height: 25px
+}
+
+
+
+
+/*END CODE HERE*/
+
+
+
+
+
+
+
